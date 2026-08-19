@@ -90,6 +90,8 @@ Weather conditions play a critical role in pollutant dispersion and accumulation
 
 
 ## System Architecture
+<img width="854" height="487" alt="image" src="https://github.com/user-attachments/assets/30e9dbfc-e2fb-4362-8143-12e53d50e212" />
+
 
 The proposed framework consists of multiple interconnected modules.
 
